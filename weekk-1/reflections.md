@@ -29,3 +29,15 @@ rmdir - remove a folder/dir.
 rm - remove a file.
 
 help - see a list of valid commands in bash.
+
+# 1.4 Forking and Cloning 
+
+When you create a new repo, you are pretty much making a file directory on your GitHub account. You just login and there will be a green button on the right hand size that says '+New repository', click on it. Name your repository and add whatever license you desire, hit 'Create repository' and bam, you have a new repository that you can use to store your files.
+
+When forking a repo, you go to the repo you'd like to fork. You hit the fork button, and a copy of that repo will be added to your account. You can work on that repo as much as your want and not affect the original repo. The is great if you're trying to see how another persons source code works or are trying to contribute to another persons project. 
+
+When you cone a repo, you just make a local copy of that repo on your computer so you can access and modify the files included in the repo. Any changes you make will be made to your local computer copy unless you push it to git.
+
+As stated above, when you fork a repo, you are working on an existing project while creating a new repo means you are starting a new project.
+
+I didn't have any struggles setting up git, everything worked out perfectly. I have been using git and Github for some time.
