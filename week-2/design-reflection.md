@@ -1,1 +1,1 @@
-![Site-plan.](/imgs/site-map.jpg)
+![Site-plan.](imgs/site-map.jpg)
